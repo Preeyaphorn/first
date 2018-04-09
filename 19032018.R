@@ -32,4 +32,4 @@ Temp$Date =format(Date,"%a%b%y")
 Tempdaymean = tapply(Temp$Temperature...C..c.1,Temp$Date,mean)
 
 Temp$Date =format(Date,"%a%b%y")
-RHdaymean = tapply(Temp$RH.....c.1.2,Temp$Date,mean)
+RHdaymean = tapply(Temp$RH.....c.1.2,Temp$Date,mean) #ผิดนะจ้ะ
